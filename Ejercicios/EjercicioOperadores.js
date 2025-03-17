@@ -57,6 +57,6 @@ console.log(!(a > b)); // true cambia le resultado real
 
 // 9. Utiliza el operador ternario
 let baloncesto = true
-baloncesto ? console.log("Ganara Alemania, Servia, Canada ") : console.log("Soy gay ") 
+baloncesto ? console.log("Ganara Alemania, Servia, Canada ") : console.log("No") 
 // 10. Combina operadores aritméticos, de comparación y lógicos
 console.log(((a + b) > 10) && ((a * b) < 100) || (a - b) != 0); // true
