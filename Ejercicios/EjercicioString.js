@@ -6,7 +6,7 @@ https://www.twitch.tv/videos/2200149072?t=00h08m02s
 
 // 1. Concatena dos cadenas de texto
 let a = "Uriel"  
-const b = " come penes "
+const b = "patron "
 let carusel = a + b 
 console.log(carusel)
 // 2. Muestra la longitud de una cadena de texto
@@ -20,11 +20,7 @@ console.log(carusel[16])
 console.log(carusel.toUpperCase())
 console.log(carusel.toLowerCase())
 
-// 5. Crea una cadena de texto en varias líneas
-let hola = `hola soy ruben+
-y soy extremamente
-guapo como mi novia Carmen
-que la quiero mucho`
+
 // 6. Interpola el valor de una variable en un string
 console.log(`Hola eres ${b}`)
 // 7. Reemplaza todos los espacios en blanco de un string por guiones
